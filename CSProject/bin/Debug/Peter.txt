@@ -1,0 +1,11 @@
+PaySlip For December 2020
+==========================
+Name of Staff: Peter
+Hours Worked: 20
+
+Basic Pay: $1000
+Allowance: $1000
+
+==========================
+Total Pay: $1000
+==========================

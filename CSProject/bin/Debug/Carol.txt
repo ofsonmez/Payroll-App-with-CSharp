@@ -1,0 +1,11 @@
+PaySlip For December 2020
+==========================
+Name of Staff: Carol
+Hours Worked: 25
+
+Basic Pay: $750
+Overtime Pay: $0
+
+==========================
+Total Pay: $750
+==========================
